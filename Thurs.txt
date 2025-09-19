@@ -1,1 +1,2 @@
-Today is Thursday .
+Today is Thursday.
+Today Date is Sep19.
